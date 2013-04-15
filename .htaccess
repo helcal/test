@@ -1,0 +1,36 @@
+DirectoryIndex brand.php 
+ErrorDocument 404 /404.shtml
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+RedirectMatch 404 "(?:.*)/(?:\.git|file_or_dir)(?:/.*)?$"
+
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+# redirect all non-www traffic
+#   RewriteCond %{HTTP_HOST} ^brand\.com$
+#   RewriteRule ^.*$ http://www.brand.com%{REQUEST_URI} [R=permanent,L]
+
+# Redirect aliases of home page to the root website
+#   rewriteRule ^index\.(php|html|htm) http://www.brand.com/ [R=permanent,L] 
+
+   rewriteRule ^Home/([^/\.]+)?$ /brand.php?lang=$1&%{QUERY_STRING} [L]
+   rewriteRule ^search/([^/]+)?$ /brand.php?alias=search&cmd=$1&%{QUERY_STRING} [L]
+   rewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)/([^/\.]+)/([^/\.]+)?$ /brand.php?guid=$4&lang=$5&%{QUERY_STRING} [L]
+   rewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)/([^/\.]+)?$ /brand.php?guid=$3&lang=$4&%{QUERY_STRING} [L]
+   rewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)?$ /brand.php?guid=$2&lang=$3&%{QUERY_STRING} [L]
+   rewriteRule ^([^/\.]+)/([^/\.]+)?$ /brand.php?alias=$1&cmd=$2&%{QUERY_STRING} [L]
+   rewriteRule ^([^/\.]+)?$ /brand.php?alias=$1&%{QUERY_STRING} [L]
+</IfModule>
+
+## Redirects ##
+
+# Syntaax
+# redirect 301 /Original/URI/Path.html http://www.new_site.com/New/URI/Path
+
+## End Redirects ##
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
