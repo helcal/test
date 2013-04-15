@@ -1,0 +1,3 @@
+srv_type=central
+srv_central=http://dev2.jorggray.com
+srv_manufacturer=

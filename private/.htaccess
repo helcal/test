@@ -1,0 +1,4 @@
+AuthName "private"
+AuthUserFile "/home/portalis/.htpasswds/public_html/private/passwd"
+AuthType Basic
+require valid-user

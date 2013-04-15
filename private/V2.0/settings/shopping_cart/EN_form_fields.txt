@@ -1,0 +1,90 @@
+#Structure: name equals Display | Required flag (when R)
+
+REMOVE=Remove|
+SUBTOTAL=Subtotal|
+TOTAL=Total|
+TAX=Tax|
+CHECKOUT=Checkout|
+CONTINUE=Continue|
+PURCHASE=Purchase|
+REVIEW=Review|
+REVIEW_ITEMS=Review Items|
+BACK=Back|
+EDIT_BILLING=Edit Billing Information|
+EDIT_SHIPPING=Edit Shipping Information|
+APPLY_COUPON=Apply coupon|
+
+SHOPPING_CART=Shopping Cart|
+CONTINUE_SHOPPING=Continue Shopping|
+UPDATE_SHOPPING_CART=Update Shopping Cart|
+PROCEED_TO_CHECKOUT=Proceed To Checkout|
+BILLING_TITLE=Billing Information|
+SHIPPING_TITLE=Shipping Information|
+SHIPPING_METHOD_TITLE=Shipping Method|
+PAYMENT_INFO_TITLE=Credit Card Information|
+PAYMENT_INFO_TITLE2=Payment Information|
+ORDER_REVIEW_TITLE=Order Review|
+TRANS_RESULT_TITLE=Transaction Result|
+APPLY_PROMO_CODE=Apply|
+
+MSG_PROMO_TITLE=Discount Codes|
+MSG_PROMO_DESCRIPTION=Enter your coupon code if you have one|
+MSG_PROMO_INVALID=Invalid Promotion Code|
+
+
+MSG_SHIPPING_AND_BILLING_ADDRESS=Use the billing information as shipping information|
+MSG_SHOPPING=Please confirm the items in your shopping cart before proceeding to check out. If you would like to add more items in your shopping cart, click on "Keep Browsing" and do not use your broswer's back button.|
+MSG_BILLING=Please enter your billing and contact information below.|
+MSG_SHIPPING=Please enter your shipping information below.|
+MSG_SHIPPING_METHOD=Please select the shipping method.|
+MSG_PAYMENT_INFO=Please fill up the credit card information below.|
+MSG_REVIEW=Please review the information, products, tax, and shipping cost. If everything is correct, click on &quot;Purchase&quot; to submit your order. You will receive your confirmation through e-mail shortly.|                                                                    
+
+BILLING_0=Billing Information|
+BILLING_1=First Name|Y
+BILLING_2=Last Name|Y
+BILLING_3=Company|N
+BILLING_4=Email Address|Y
+BILLING_5=Address|Y
+BILLING_6=City|Y
+BILLING_7=State/Province|Y
+BILLING_8=Zip/Postal Code|Y
+BILLING_9=Country|Y
+BILLING_10=Telephone|Y
+BILLING_11=Fax|N
+BILLING_12=Password|Y
+BILLING_13=Confirm Password|Y
+BILLING_14=Address Line 1|Y
+BILLING_15=Address Line 2|N
+
+SHIPPING_0=Shipping Information|
+SHIPPING_1=First Name|Y
+SHIPPING_2=Last Name|Y
+SHIPPING_3=Company|N
+SHIPPING_4=Address|Y
+SHIPPING_5=City|Y
+SHIPPING_6=State/Province|Y
+SHIPPING_7=Zip/Postal Code|Y
+SHIPPING_8=Country|Y
+SHIPPING_9=Telephone|Y
+SHIPPING_10=Fax|
+SHIPPING_11=Password|Y
+SHIPPING_12=Confirm Password|Y
+
+SHIPPING_METHOD_0=Shipping Method|
+SHIPPING_METHOD_1=Free Shipping|
+
+PAYMENT_INFO_0=Payment Information|
+PAYMENT_INFO_1=Paypal Standard|
+PAYMENT_INFO_2=Credit Card|
+
+CREDIT_CARD_FIELDS_0=Name on Card|Y
+CREDIT_CARD_FIELDS_1=Credit Card Type|Y
+CREDIT_CARD_FIELDS_2=Credit Card Number|Y
+CREDIT_CARD_FIELDS_3=Expiration Date|
+CREDIT_CARD_FIELDS_4=Month|Y
+CREDIT_CARD_FIELDS_5=Year|Y
+CREDIT_CARD_FIELDS_6=Card Verification Number|Y
+
+MSG_REQUIRED_FIELD=This is a required field.|
+MSG_CREDIT_CARD_FIELD=Credit card number doesn't match credit card type.|

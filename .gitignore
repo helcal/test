@@ -1,0 +1,6 @@
+/includes/
+/private/V2.0/config/env.php
+error_log
+/.htaccess
+.ftpquota
+/sitemap.php

@@ -1,0 +1,105 @@
+tax_country_code=US
+tax_country_name=
+US|US-AL|Alabama|0
+US|US-AK|Alaska|0
+US|US-AZ|Arizona|0
+US|US-AR|Arkansas|0
+US|US-CA|California|0
+US|US-CO|Colorado|0
+US|US-CT|Connecticut|0
+US|US-DE|Delaware|0
+US|US-DC|District of Columbia|0
+US|US-FL|Florida|0
+US|US-GA|Georgia|0
+US|US-HI|Hawaii|0
+US|US-ID|Idaho|0
+US|US-IL|Illinois|0
+US|US-IN|Indiana|0
+US|US-IA|Iowa|0
+US|US-KS|Kansas|0
+US|US-KY|Kentucky|0
+US|US-LA|Louisiana|0
+US|US-ME|Maine|0
+US|US-MD|Maryland|0
+US|US-MA|Massachusetts|0
+US|US-MI|Michigan|0
+US|US-MN|Minnesota|0
+US|US-MS|Mississippi|0
+US|US-MO|Missouri|0
+US|US-MT|Montana|0
+US|US-NE|Nebraska|0
+US|US-NV|Nevada|0
+US|US-NH|New Hampshire|0
+US|US-NJ|New Jersey|0
+US|US-NM|New Mexico|0
+US|US-NY|New York|0
+US|US-NC|North Carolina|0
+US|US-ND|North Dakota|0
+US|US-OH|Ohio|0
+US|US-OK|Oklahoma|0
+US|US-OR|Oregon|0
+US|US-PA|Pennsylvania|0
+US|US-RI|Rhode Island|0
+US|US-SC|South Carolina|0
+US|US-SD|South Dakota|0
+US|US-TN|Tennessee|0
+US|US-TX|Texas|0
+US|US-UT|Utah|0
+US|US-VT|Vermont|0
+US|US-VA|Virginia|0
+US|US-WA|Washington|0
+US|US-WV|West Virginia|0
+US|US-WI|Wisconsin|0
+US|US-WY|Wyoming|0
+tax_type=based_on_state
+US|US-AL|Alabama|0
+US|US-AK|Alaska|0
+US|US-AZ|Arizona|0
+US|US-AR|Arkansas|0
+US|US-CA|California|0
+US|US-CO|Colorado|0
+US|US-CT|Connecticut|0
+US|US-DE|Delaware|0
+US|US-DC|District of Columbia|0
+US|US-FL|Florida|0
+US|US-GA|Georgia|0
+US|US-HI|Hawaii|0
+US|US-ID|Idaho|0
+US|US-IL|Illinois|0
+US|US-IN|Indiana|0
+US|US-IA|Iowa|0
+US|US-KS|Kansas|0
+US|US-KY|Kentucky|0
+US|US-LA|Louisiana|0
+US|US-ME|Maine|0
+US|US-MD|Maryland|0
+US|US-MA|Massachusetts|0
+US|US-MI|Michigan|0
+US|US-MN|Minnesota|0
+US|US-MS|Mississippi|0
+US|US-MO|Missouri|0
+US|US-MT|Montana|0
+US|US-NE|Nebraska|0
+US|US-NV|Nevada|0
+US|US-NH|New Hampshire|0
+US|US-NJ|New Jersey|0
+US|US-NM|New Mexico|0
+US|US-NY|New York|0
+US|US-NC|North Carolina|0
+US|US-ND|North Dakota|0
+US|US-OH|Ohio|0
+US|US-OK|Oklahoma|0
+US|US-OR|Oregon|0
+US|US-PA|Pennsylvania|0
+US|US-RI|Rhode Island|0
+US|US-SC|South Carolina|0
+US|US-SD|South Dakota|0
+US|US-TN|Tennessee|0
+US|US-TX|Texas|0
+US|US-UT|Utah|0
+US|US-VT|Vermont|0
+US|US-VA|Virginia|0
+US|US-WA|Washington|0
+US|US-WV|West Virginia|0
+US|US-WI|Wisconsin|0
+US|US-WY|Wyoming|0

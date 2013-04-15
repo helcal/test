@@ -1,0 +1,30 @@
+# robots.txt 
+# Exclude Files From All Robots:
+User-agent: *
+Disallow: /files
+Disallow: /icons
+Disallow: /images
+Disallow: /includes
+Disallow: /private
+Disallow: /public
+Disallow: /scripts
+Disallow: /secureimage
+Disallow: /styles
+Disallow: /create_bulk_brands.php
+Disallow: /download_icp.php
+Disallow: /generate_search_content.php
+Disallow: /generate_sitemap.php
+Disallow: /update_tables.php
+Disallow: /update_customers.php
+Disallow: /ircp.php
+Disallow: /index.php
+
+# Optional sitemap URL:
+Sitemap: http://www.brand.com/sitemap.xml
+
+
+
+
+
+# End robots.txt file
+
