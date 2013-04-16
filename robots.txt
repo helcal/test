@@ -23,6 +23,9 @@ Disallow: /index.php
 Sitemap: http://www.brand.com/sitemap.xml
 
 
+#this line was added for testing propouses
+
+
 
 
 
