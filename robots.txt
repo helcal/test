@@ -30,4 +30,5 @@ Sitemap: http://www.brand.com/sitemap.xml
 
 
 # End robots.txt file
+#these line was added on github.com and should be inside of the server.
 
